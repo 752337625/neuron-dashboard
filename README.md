@@ -9,29 +9,37 @@
 Neuron is an Industrial IoT (IIoT) connectivity server for modern big data and AI/ML technology to leverage the power of Industrial 4.0. It supports one-stop access to dozens of industrial protocols and converts them into MQTT protocol and realize the interconnection between IIoT platforms and various industrial devices.
 
 This repository contians the dashboard source for Neuron.
+
 ## Build Source
 
+snode v16.15.0
+
 ### Project setup
+
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 yarn serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 yarn build
 ```
 
 ### Lints and fixes files
+
 ```
 yarn lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Build Content Deployment
@@ -51,14 +59,12 @@ The following are all the github repos related to Neuron development.
 
 Please visit our [offical website](https://neugates.io) to have a good inspiration of how to apply Neuron in your big data and IIoT project.
 
-If you found any bugs or issues, please drop it in [Github Issues](https://github.com/emqx/neuron/issues). Your help is much appriceiated. 
+If you found any bugs or issues, please drop it in [Github Issues](https://github.com/emqx/neuron/issues). Your help is much appriceiated.
 
 You can connect with the Neuron community and developers in the following ways.
 
 - [Github Discussions](https://github.com/emqx/neuron/discussions)
 - [Slack](https://slack-invite.emqx.io/)
-- [Discord](https://discord.gg/xYGf3fQnES) 
+- [Discord](https://discord.gg/xYGf3fQnES)
 
 By EMQ Neuron Industrial IoT Team
-
-
